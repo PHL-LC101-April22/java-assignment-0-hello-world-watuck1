@@ -8,7 +8,9 @@ public class HelloWorld {
     }
 
     public static String sayHello() {
-        return "";
+
+//        System.out.println( "Hello world!");
+        return "Hello, World!";
     }
 
 }
